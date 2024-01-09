@@ -49,9 +49,13 @@
   margin-top: 10px;
 }
 
-#number, #character, .length{
+#number, #character{
   margin-left: 20px;
   cursor: pointer;
+}
+
+.length{
+  margin-left: 20px;
 }
 
 .character, .number, #length{
